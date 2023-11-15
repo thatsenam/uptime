@@ -4,18 +4,20 @@
     "url": "https://diamondresidential.com",
     "icon": "https://icons.duckduckgo.com/ip3/diamondresidential.com.ico",
     "slug": "diamond-residential",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 679,
-    "timeDay": 714,
-    "timeWeek": 651,
-    "timeMonth": 679,
-    "timeYear": 679,
-    "dailyMinutesDown": {}
+    "time": 648,
+    "timeDay": 414,
+    "timeWeek": 583,
+    "timeMonth": 648,
+    "timeYear": 648,
+    "dailyMinutesDown": {
+      "2023-11-15": 0
+    }
   },
   {
     "name": "Test Broken Site",
