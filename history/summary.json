@@ -4,9 +4,9 @@
     "url": "https://diamondresidential.com",
     "icon": "https://icons.duckduckgo.com/ip3/diamondresidential.com.ico",
     "slug": "diamond-residential",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 721,
     "timeYear": 684,
     "dailyMinutesDown": {
+      "2024-05-24": 0,
       "2024-04-16": 17,
       "2024-03-10": 66,
       "2023-11-15": 15
